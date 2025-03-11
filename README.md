@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Lead Data Analyst with over 2 years of experience in Ernst & Young, leveraging advanced analytical techniques, statistical modeling, and data visualization to drive business insights and decision-making. Proficient in SQL, Python, Excel, and Power BI, with a strong background in data extraction, cleaning, and transformation.
+Lead Data Analyst with around 3.5 years of experience in Ernst & Young, leveraging advanced analytical techniques, statistical modeling, and data visualization to drive business insights and decision-making. Proficient in SQL, Python, Excel, and Power BI, with a strong background in data extraction, cleaning, and transformation.
 
 ## Skills
 
